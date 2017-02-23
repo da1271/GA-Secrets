@@ -3,7 +3,7 @@
 
 Read Me:
 
-* Trello:
+* Trello: https://trello.com/b/NEK0uTFh/ga-secrets
 
 * Approach Taken: GA Secrets will be an anonymous website where users can make any posts, comments or questions for the GA community.
 
@@ -13,4 +13,12 @@ Read Me:
 
 * Installation process: link
 
-* Wireframes:
+* Wireframes: 
+![Wireframe](assets/frame1.jpg)
+![Wireframe](assets/frame2.jpg)
+![Wireframe](assets/frame3.jpg)
+![Wireframe](assets/frame4.jpg)
+![Wireframe](assets/frame5.jpg)
+![Wireframe](assets/frame6.jpg)
+
+
