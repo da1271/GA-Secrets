@@ -14,11 +14,11 @@ Read Me:
 * Installation process: link
 
 * Wireframes: 
-![Wireframe](assets/frame1.jpg)
-![Wireframe](assets/frame2.jpg)
-![Wireframe](assets/frame3.jpg)
-![Wireframe](assets/frame4.jpg)
-![Wireframe](assets/frame5.jpg)
-![Wireframe](assets/frame6.jpg)
+![Wireframe](vendor/assets/frame1.jpg)
+![Wireframe](vendor/assets/frame2.jpg)
+![Wireframe](vendor/assets/frame3.jpg)
+![Wireframe](vendor/assets/frame4.jpg)
+![Wireframe](vendor/assets/frame5.jpg)
+![Wireframe](vendor/assets/frame6.jpg)
 
 
